@@ -423,9 +423,11 @@ header > div {
   color: black;
   margin-top: 10px;
 }
-#contact i {
-  margin: 0 3px;
+#contact a {
+  margin: 0 -10px;
   color: #2c4755;
+  cursor: pointer;
+  display: inline;
 }
 
 @media (max-width: 740px) {

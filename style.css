@@ -93,7 +93,7 @@ a {
   height: 20px;
   background-color: transparent;
   position: absolute;
-  top: 28px;
+  top: calc(50% - 9px);
   cursor: pointer;
   z-index: 1;
 }
